@@ -7,10 +7,6 @@
 #IncludeRegexTransform: 
 
 /home/starboy/Desktop/algo/practice.cpp
-iostream
--
-vector
--
-valarray
--
+bits/stdc++.h
+/home/starboy/Desktop/algo/bits/stdc++.h
 

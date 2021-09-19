@@ -1,0 +1,5 @@
+/home/starboy/Desktop/algo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/starboy/Desktop/algo/cmake-build-debug/CMakeFiles/algo.dir
+/home/starboy/Desktop/algo/cmake-build-debug/CMakeFiles/main.dir
+/home/starboy/Desktop/algo/cmake-build-debug/CMakeFiles/practice.dir
+/home/starboy/Desktop/algo/cmake-build-debug/CMakeFiles/edit_cache.dir

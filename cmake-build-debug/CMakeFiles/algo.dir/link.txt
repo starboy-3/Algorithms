@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/algo.dir/algo.cpp.o -o algo 
